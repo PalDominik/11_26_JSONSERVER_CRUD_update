@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "nev": "Kiss Tamás",
+      "osztaly": "12.D",
+      "tankoteles": true,
+      "kredit": 120,
+      "id": "ImoRvFduwfU"
+    },
+    {
+      "nev": "Kiss Dénes",
+      "osztaly": "10.A",
+      "tankoteles": true,
+      "kredit": 80,
+      "id": "oZlQ6SOztoc"
+    },
+    {
+      "nev": "Nagy Dénes",
+      "osztaly": "9.a",
+      "tankoteles": true,
+      "kredit": 10,
+      "id": "J2U01KicZUU"
+    },
+    {
+      "nev": "Gomba Gomba",
+      "osztaly": "10.a",
+      "tankoteles": true,
+      "kredit": 70,
+      "id": "If8A7Hm5s9Q"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
